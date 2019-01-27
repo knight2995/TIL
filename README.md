@@ -5,6 +5,7 @@ This repository is my TIL(Today I Learned) storage.
 - 각 폴더를 통해 공부분야를 세분화 시킴
 - 카테고리/날짜 수행요약.md의 파일명 유지.
 - 차후 변경 가능.
+- 매주 월, 목 스터디 진행.
 
 ## 스터디 진행자 목록
 
