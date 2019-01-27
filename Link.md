@@ -1,1 +1,1 @@
-- [20190127 Study Kick-off Meeting](https://github.com/knight2995/TIL/Study/20190127 Sutdy Kick-off Meeting')
+- [20190127 Study Kick-off Meeting](https://github.com/knight2995/TIL/blob/master/Study/20190127%20Study%20Kick-off%20Meeting.md)
