@@ -17,6 +17,6 @@
 
 ## 우리의 목표
 
-```(c++)
+```c++
     std::cout<<"slowly but steadily"<<std::endl
 ```
