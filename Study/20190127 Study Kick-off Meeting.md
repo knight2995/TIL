@@ -4,8 +4,9 @@
 - [김동현](https://github.com/knight2995)
 - [김선진](https://github.com/Junnis0123) 
 - [부형돈](https://github.com/gurobooru)
+- [이수현](https://github.com/SoohyeonLee)
 - [정가화](https://github.com/gagahwahwa)
-- [황선준]()
+- [황선준](https://girlfriend-yerin.tistory.com)
 
 ## 스터디 진행 방법
 1. 개인(팀) 별로 주제를 정하여 스터디 시간에 현재까지 진행상황 발표
