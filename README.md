@@ -13,3 +13,6 @@ This repository is my TIL(Today I Learned) storage.
 - [부형돈](https://github.com/gurobooru)
 - [정가화](https://github.com/gagahwahwa)
 - [황선준]()
+
+## Study 정리 자료
+- [첫 미팅](https://github.com/knight2995/TIL/blob/master/Study/20190127%20Study%20Kick-off%20Meeting.md)
